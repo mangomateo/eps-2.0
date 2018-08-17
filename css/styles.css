@@ -1,0 +1,29 @@
+* {
+  font-family: 'Cardo', serif;
+}
+
+p {
+  font-size: large;
+}
+
+a {
+  color: #000;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #ffc800;
+}
+
+.card-header:hover {
+  background-color: #373637;
+}
+
+.blueLink {
+  color: #0000EE;
+}
+
+#jumbotron {
+  background-color: #373637;
+  max-height: 400px;
+}

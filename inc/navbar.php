@@ -28,7 +28,7 @@
                 <a class="dropdown-item" href="sitting.php">In-Home Pet Sitting</a>
                 <a class="dropdown-item" href="dayvisits.php">Day Time Visits</a>
                 <a class="dropdown-item" href="grooming.php">Grooming</a>
-                <a class="dropdown-item" href="#">Other Services</a>
+                <a class="dropdown-item" href="otherservices.php">Other Services</a>
               </div>
             </li>
 

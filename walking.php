@@ -16,7 +16,7 @@
       <div class="row my-5"> <!-- Header: Services & Rates -->
         <div class="col">
           <h1 class="text-center">Services & Rates</h1>
-          <h4 class="text-center">Walking Sevices</h4>
+          <h4 class="text-center mt-5 mb-2">Walking Sevices</h4>
         </div>
       </div> <!-- /Header: Services & Rates -->
 

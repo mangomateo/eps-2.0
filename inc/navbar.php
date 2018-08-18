@@ -24,7 +24,7 @@
                 Services & Rates
               </a>
               <div class="dropdown-menu">
-                <a class="dropdown-item" href="#">Walking Services</a>
+                <a class="dropdown-item" href="walking.php">Walking Services</a>
                 <a class="dropdown-item" href="#">In-Home Pet Sitting</a>
                 <a class="dropdown-item" href="#">Day Time Visits</a>
                 <a class="dropdown-item" href="#">Grooming</a>
@@ -43,7 +43,7 @@
             <li class="nav-item">
               <a class="nav-link font-weight-bold h4 my-auto text-center" href="contact.php">Contact</a>
             </li>
-            
+
             <div class="mx-auto">
               <a href="https://www.instagram.com/essentialpetservices/">
                 <i class="fas fa-camera-retro fa-2x order-1 mx-2 mt-1"></i>

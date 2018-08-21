@@ -10,7 +10,10 @@
   </head>
 
   <body>
-    <?php include ("../inc/navbar-blog.php"); ?>
+    <?php
+      include ("../inc/banner-blog.php");
+      include ("../inc/navbar-blog.php");
+    ?>
 
     <div class="container mb-5"> <!-- mainContent -->
       <div class="row">
@@ -26,7 +29,7 @@
           <img src="../img/blog2.jpg" width=600 height=400 class="img-fluid pb-5">
         </div>
       </div>
-      
+
       <div class="row">
         <div class="col"></div>
         <div class="col-lg-10 mb-4">

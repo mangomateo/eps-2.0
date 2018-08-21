@@ -10,7 +10,10 @@
   </head>
 
   <body>
-    <?php include ("../inc/navbar-blog.php"); ?>
+    <?php
+      include ("../inc/banner-blog.php");
+      include ("../inc/navbar-blog.php");
+    ?>
 
     <div class="container mb-5"> <!-- mainContent -->
       <div class="row">

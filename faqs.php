@@ -224,8 +224,10 @@
         <div class="col-md-1 col-lg-2"></div> <!-- dummy width column -->
       </div>
 
-      <?php include ("inc/footer.php"); ?>
     </div> <!-- /.container -->
-    <?php include ("inc/scripts.php"); ?>
+    <?php
+      include ("inc/footer.php");
+      include ("inc/scripts.php");
+    ?>
   </body>
 </html>

@@ -164,9 +164,12 @@
           <p>Contact us <a href="contact.php" class="blueLink">here</a> to inquire further about walking services!</p>
         </div>
       </div> <!-- /HST -->
-      <?php include ("inc/footer.php"); ?>
+      <?php  ?>
     </div> <!-- /mainContainer -->
 
-    <?php include ("inc/scripts.php"); ?>
+    <?php
+      include ("inc/footer.php");
+      include ("inc/scripts.php");
+    ?>
   </body>
 </html>

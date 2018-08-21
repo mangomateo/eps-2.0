@@ -64,8 +64,10 @@
         </div> <!-- /content col -->
         <div class="col"></div> <!-- dummy width column -->
       </div>
-      <?php include ("inc/footer.php"); ?>
     </div> <!-- /mainContent -->
-    <?php include ("inc/scripts.php"); ?>
+    <?php
+      include ("inc/footer.php");
+      include ("inc/scripts.php");
+    ?>
   </body>
 </html>

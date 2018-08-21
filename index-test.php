@@ -12,12 +12,11 @@
 
   <body>
 
-    <!-- Full Width Header Image -->
+    <div class="banner">
+      <img src="img/banner.jpg" class="mx-auto my-auto py-3 img-fluid d-block">
+    </div>
 
-    <?php
-      include ("inc/banner.php");
-      include ("inc/navbar.php");
-    ?> <!-- /navbar -->
+    <?php include ("inc/navbar.php"); ?> <!-- /navbar -->
 
     <div class="container"> <!-- mainContent -->
       <div class="row mt-5">

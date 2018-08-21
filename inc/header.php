@@ -35,7 +35,7 @@
       Custom CSS
     -->
     <link href="https://fonts.googleapis.com/css?family=Cardo" rel="stylesheet">
-    <link href="css/styles.css" rel="stylesheet" type="text/css">
+    <link href="css/styles-1.1.0.css" rel="stylesheet" type="text/css">
     <!--
       /Custom CSS
     -->

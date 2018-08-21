@@ -1,4 +1,3 @@
-<div class="container" id="navbar"> <!-- navbar -->
   <div class="row">
     <div class="col">
       <nav class="navbar navbar-expand-md navbar-light bg-info"> <!-- nav -->
@@ -57,4 +56,3 @@
       </nav>
     </div> <!-- /.col -->
   </div> <!-- /.row -->
-</div> <!-- /#navbar -->

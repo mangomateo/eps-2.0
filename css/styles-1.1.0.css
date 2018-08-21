@@ -23,7 +23,6 @@ a:hover {
   color: #0000EE;
 }
 
-#jumbotron {
-  background-color: #373637;
-  max-height: 400px;
+.banner {
+  background-color: #000;
 }

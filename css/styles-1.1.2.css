@@ -30,3 +30,22 @@ a:hover {
 .em-text {
   font-family: 'Open Sans', sans-serif;
 }
+
+
+
+/* STYLING FOR SERVICES & RATES LANDING PAGE */
+
+.service-img {
+  filter:contrast(40%);
+}
+
+.service-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #000;
+  color: #fff;
+}
+
+/* ///////////////////////////////////////// */

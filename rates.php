@@ -24,22 +24,24 @@
 
       <div class="row"> <!-- content DIV -->
         <div class="col-md-6 col-lg-4 my-3">
-          <img src="https://via.placeholder.com/1000x800" class="img-fluid">
+          <img src="img/dog009.jpg" class="img-fluid service-img">
+          <h3 class="em-text service-text text-center p-1">WALKING SERVICES</h3>
         </div>
         <div class="col-md-6 col-lg-4 my-3">
-          <img src="https://via.placeholder.com/1000x800" class="img-fluid">
+          <img src="img/dog005.jpg" class="img-fluid service-img">
+          <h3 class="em-text service-text text-center p-1">IN-HOME PET SITTING</h3>
         </div>
         <div class="col-md-6 col-lg-4 my-3">
-          <img src="https://via.placeholder.com/1000x800" class="img-fluid">
+          <img src="img/dog004.jpg" class="img-fluid service-img">
+          <h3 class="em-text service-text text-center p-1">DAYTIME VISITS</h3>
         </div>
         <div class="col-md-6 col-lg-4 my-3">
-          <img src="https://via.placeholder.com/1000x800" class="img-fluid">
+          <img src="img/dog003.jpg" class="img-fluid service-img">
+          <h3 class="em-text service-text text-center p-1">GROOMING</h3>
         </div>
         <div class="col-md-6 col-lg-4 my-3">
-          <img src="https://via.placeholder.com/1000x800" class="img-fluid">
-        </div>
-        <div class="col-md-6 col-lg-4 my-3">
-          <img src="https://via.placeholder.com/1000x800" class="img-fluid">
+          <img src="img/dog008.jpg" class="img-fluid service-img">
+          <h3 class="em-text service-text text-center p-1">OTHER SERVICES</h3>
         </div>
       </div> <!-- /content DIV -->
 

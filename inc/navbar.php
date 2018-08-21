@@ -18,17 +18,10 @@
               <a class="nav-link font-weight-bold h4 my-auto text-center" href="about.php">About</a>
             </li>
 
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle font-weight-bold h4 my-auto text-center" href="rates.php" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown">
+            <li class="nav-item">
+              <a class="nav-link font-weight-bold h4 my-auto text-center" href="rates.php">
                 Services & Rates
               </a>
-              <div class="dropdown-menu">
-                <a class="dropdown-item" href="walking.php">Walking Services</a>
-                <a class="dropdown-item" href="sitting.php">In-Home Pet Sitting</a>
-                <a class="dropdown-item" href="dayvisits.php">Day Time Visits</a>
-                <a class="dropdown-item" href="grooming.php">Grooming</a>
-                <a class="dropdown-item" href="otherservices.php">Other Services</a>
-              </div>
             </li>
 
             <li class="nav-item">

@@ -11,7 +11,10 @@
   </head>
 
   <body>
-    <?php include ("inc/navbar.php"); ?> <!-- navbar -->
+    <?php
+      include ("inc/banner.php");
+      include ("inc/navbar.php");
+    ?> <!-- /navbar -->
     <div class="container mb-5"> <!-- mainContainer -->
       <div class="row my-5"> <!-- Header: Services & Rates -->
         <div class="col">

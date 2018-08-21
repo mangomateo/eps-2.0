@@ -11,7 +11,10 @@
   </head>
 
   <body>
-    <?php include ("inc/navbar.php"); ?> <!-- navbar -->
+    <?php
+      include ("inc/banner.php");
+      include ("inc/navbar.php");
+    ?> <!-- /navbar -->
     <div class="container my-5"> <!-- .container -->
 
       <h5 class="text-center my-5 display-4">Frequently Asked Questions</h5>

@@ -11,13 +11,16 @@
   </head>
 
   <body>
-    <?php include ("inc/navbar.php"); ?> <!-- navbar -->
+    <?php
+      include ("inc/banner.php");
+      include ("inc/navbar.php");
+    ?> <!-- /navbar -->
     <div class="container"> <!-- mainContent -->
 
       <!-- Contact Header -->
       <div class="row">
         <div class="col">
-          <h2 class="text-center my-4">Get in touch!</h2>
+          <h2 class="text-center my-4">We can't wait to hear from you!</h2>
         </div>
       </div> <!-- /Contact Header-->
 

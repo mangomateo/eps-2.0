@@ -12,12 +12,12 @@
 
   <body>
 
-    <!-- Full Width Header Image -->
 
+    <!-- Header & Navbar -->
     <?php
       include ("inc/banner.php");
       include ("inc/navbar.php");
-    ?> <!-- /navbar -->
+    ?> <!-- /Header & Navbar -->
 
     <div class="container"> <!-- mainContent -->
       <div class="row mt-5">

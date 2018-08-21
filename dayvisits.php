@@ -29,7 +29,29 @@
 
         <div class="col"> <!-- accordionDiv -->
 
-          <p class="mb-5">Being away for long periods of time is sometimes unavoidable, but it can be hard on our pets. Even if they don’t need a full day of daycare or midday walk, a midday visit can mean the world to some pets. We can help keep your pets happy and healthy with just a short visit, to brighten up their day until you’re home!</p>
+          <p class="mb-4">Being away for long periods of time is sometimes unavoidable, but it can be hard on our pets. Even if they don’t need a full day of daycare or midday walk, a midday visit can mean the world to some pets. We can help keep your pets happy and healthy with just a short visit, to brighten up their day until you’re home!</p>
+
+          <p class="text-center mb-4">Extra pets within the home are at <strong>no additional cost</strong> for daytime visits!</p>
+
+          <p>All day time visits include:</p>
+
+          <div class="row">
+            <div class="col-sm">
+              <ul>
+                <li>Potty Break</li>
+                <li>Play Time</li>
+                <li>Water Refresh</li>
+                <li>Meal Distribution (if applicable)</li>
+              </ul>
+            </div>
+            <div class="col-sm">
+              <ul class="mb-5">
+                <li>Medicine Administration (if applicable)</li>
+                <li>Litter refresh (if applicable)</li>
+                <li>Love and Affection</li>
+              </ul>
+            </div>
+          </div>
 
           <!--Accordion wrapper-->
           <div class="accordion mb-5" id="accordionEx" role="tablist" aria-multiselectable="true">

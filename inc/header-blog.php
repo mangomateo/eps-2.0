@@ -35,7 +35,9 @@
       Custom CSS
     -->
     <link href="https://fonts.googleapis.com/css?family=Cardo" rel="stylesheet">
-    <link href="../css/styles-1.1.0.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans|Open+Sans+Condensed:300" rel="stylesheet">
+    <link href="../css/styles-1.1.1.css" rel="stylesheet" type="text/css">
     <!--
       /Custom CSS
     -->

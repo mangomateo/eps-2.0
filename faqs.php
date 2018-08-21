@@ -17,7 +17,7 @@
     ?> <!-- /navbar -->
     <div class="container my-5"> <!-- .container -->
 
-      <h5 class="text-center my-5 display-4">Frequently Asked Questions</h5>
+      <h5 class="text-center my-5 display-4 em-text">Frequently Asked Questions</h5>
 
       <div class="row">
         <div class="col-md-1 col-lg-2"></div> <!-- dummy width column -->
@@ -33,7 +33,7 @@
                 <!-- Card header -->
                 <div class="card-header" role="tab" id="headingOne">
                     <a data-toggle="collapse" data-parent="#accordionEx" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                        <h3 class="mb-0 text-center">
+                        <h3 class="mb-0 text-center em-text">
                             What areas do you offer your services? <i class="fa fa-angle-down rotate-icon"></i>
                         </h3>
                     </a>
@@ -54,7 +54,7 @@
                 <!-- Card header -->
                 <div class="card-header" role="tab" id="headingTwo">
                     <a data-toggle="collapse" data-parent="#accordionEx" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
-                        <h3 class="mb-0 text-center">
+                        <h3 class="mb-0 text-center em-text">
                             I'm interested! What's next? <i class="fa fa-angle-down rotate-icon"></i>
                         </h3>
                     </a>
@@ -75,7 +75,7 @@
                 <!-- Card header -->
                 <div class="card-header" role="tab" id="headingThree">
                     <a data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
-                        <h3 class="mb-0 text-center">
+                        <h3 class="mb-0 text-center em-text">
                             Why do I need a meet and greet? <i class="fa fa-angle-down rotate-icon"></i>
                         </h3>
                     </a>
@@ -96,7 +96,7 @@
                 <!-- Card header -->
                 <div class="card-header" role="tab" id="headingFour">
                     <a data-toggle="collapse" data-parent="#accordionEx" href="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
-                        <h3 class="mb-0 text-center">
+                        <h3 class="mb-0 text-center em-text">
                             Why does my dog need to be walked every day? <i class="fa fa-angle-down rotate-icon"></i>
                         </h3>
                     </a>
@@ -117,7 +117,7 @@
                 <!-- Card header -->
                 <div class="card-header" role="tab" id="headingFive">
                     <a data-toggle="collapse" data-parent="#accordionEx" href="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
-                        <h3 class="mb-0 text-center">
+                        <h3 class="mb-0 text-center em-text">
                             Why should I hire a professional dog walker? <i class="fa fa-angle-down rotate-icon"></i>
                         </h3>
                     </a>
@@ -138,7 +138,7 @@
                 <!-- Card header -->
                 <div class="card-header" role="tab" id="headingSix">
                     <a data-toggle="collapse" data-parent="#accordionEx" href="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
-                        <h3 class="mb-0 text-center">
+                        <h3 class="mb-0 text-center em-text">
                             What days and times do you offer your services? <i class="fa fa-angle-down rotate-icon"></i>
                         </h3>
                     </a>
@@ -159,7 +159,7 @@
                 <!-- Card header -->
                 <div class="card-header" role="tab" id="headingSeven">
                     <a data-toggle="collapse" data-parent="#accordionEx" href="#collapseSeven" aria-expanded="true" aria-controls="collapseSeven">
-                        <h3 class="mb-0 text-center">
+                        <h3 class="mb-0 text-center em-text">
                             What types of payment do you take? <i class="fa fa-angle-down rotate-icon"></i>
                         </h3>
                     </a>
@@ -180,7 +180,7 @@
                 <!-- Card header -->
                 <div class="card-header" role="tab" id="headingEight">
                     <a data-toggle="collapse" data-parent="#accordionEx" href="#collapseEight" aria-expanded="true" aria-controls="collapseEight">
-                        <h3 class="mb-0 text-center">
+                        <h3 class="mb-0 text-center em-text">
                             When is payment due? <i class="fa fa-angle-down rotate-icon"></i>
                         </h3>
                     </a>
@@ -202,7 +202,7 @@
                 <!-- Card header -->
                 <div class="card-header" role="tab" id="headingNine">
                     <a data-toggle="collapse" data-parent="#accordionEx" href="#collapseNine" aria-expanded="true" aria-controls="collapseNine">
-                        <h3 class="mb-0 text-center">
+                        <h3 class="mb-0 text-center em-text">
                             What is your cancellation policy? <i class="fa fa-angle-down rotate-icon"></i>
                         </h3>
                     </a>

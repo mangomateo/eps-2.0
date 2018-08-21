@@ -102,8 +102,11 @@
           <p class="mb-4">If you have any questions about this or would like more information, feel free to <a href="../contact.php" class="blueLink">contact me</a> for some personalized help!</p> <!-- /outro -->
       </div>
       <div class="col"></div> <!-- DUMMY WIDTH COLUMN -->
-      <?php include ("../inc/footer.php"); ?>
+      </div>
     </div> <!-- /mainContent -->
-    <?php include ("../inc/scripts.php"); ?>
+    <?php
+      include ("../inc/footer.php");
+      include ("../inc/scripts.php");
+    ?>
   </body>
 </html>

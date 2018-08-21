@@ -19,7 +19,7 @@
       <div class="row">
         <div class="col py-5">
           <!-- BLOG TITLE -->
-          <h1 class="text-center font-weight-bold">Why Your Dog Needs to be Walked, Daily.</h1>
+          <h1 class="text-center font-weight-bold em-text">Why Your Dog Needs to be Walked, Daily.</h1>
           <h3 class="text-center font-italic">Sara Alderman</h3> <!-- /BLOG TITLE -->
         </div>
       </div>
@@ -112,8 +112,11 @@
         </div>
         <div class="col"></div>
       </div>
-      <?php include ("../inc/footer.php"); ?>
+
     </div> <!-- /mainContent -->
-    <?php include ("../inc/scripts.php"); ?>
+    <?php
+      include ("../inc/footer.php");
+      include ("../inc/scripts.php");
+    ?>
   </body>
 </html>

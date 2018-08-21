@@ -20,7 +20,7 @@
       <!-- Contact Header -->
       <div class="row">
         <div class="col">
-          <h2 class="text-center my-4">We can't wait to hear from you!</h2>
+          <h2 class="text-center my-4 em-text">We can't wait to hear from you!</h2>
         </div>
       </div> <!-- /Contact Header-->
 
@@ -55,7 +55,7 @@
     </div> <!-- /mainContent -->
 
     <?php
-      include ("inc/footer.php"); 
+      include ("inc/footer.php");
       include ("inc/scripts.php");
     ?>
   </body>

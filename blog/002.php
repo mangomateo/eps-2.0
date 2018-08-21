@@ -54,8 +54,10 @@
         </div>
         <div class="col"></div>
       </div>
-      <?php include ("../inc/footer.php"); ?>
     </div> <!-- /mainContent -->
-    <?php include ("../inc/scripts.php"); ?>
+    <?php
+      include ("../inc/footer.php");
+      include ("../inc/scripts.php");
+    ?>
   </body>
 </html>

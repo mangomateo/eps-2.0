@@ -18,142 +18,103 @@
     <div class="container mb-5"> <!-- mainContainer -->
       <div class="row my-5"> <!-- Header: Services & Rates -->
         <div class="col">
-          <h1 class="text-center">Services & Rates</h1>
-          <h4 class="text-center mt-5 mb-2">Walking Sevices</h4>
+          <h1 class="text-center em-text">Walking Services</h1>
         </div>
       </div> <!-- /Header: Services & Rates -->
 
       <div class="row">
-        <div class="col-md-1 col-lg-2"></div> <!-- dummy width column -->
+        <div class="col-md-1"></div> <!-- dummy width column -->
 
+        <div class="col"> <!-- MAIN CONTENT DIV -->
+          <p>If you want to know that your loved one is getting undivided attention, or if your pup can be nervous or unpredictable around other dogs, then this is the service for you!</p>
 
-        <div class="col"> <!-- accordionDiv -->
+          <div class="row"> <!-- Nested: Solo Walks -->
+            <div class="col-md-6 bg-info my-2 rounded-left">
 
-          <!--Accordion wrapper-->
-          <div class="accordion mb-5" id="accordionEx" role="tablist" aria-multiselectable="true">
+              <h3 class="text-center em-text p-2">Solo Walks</h3>
 
-
-            <!-- Accordion card 1: Solo Walks -->
-            <div class="card">
-
-                <!-- Card header -->
-                <div class="card-header" role="tab" id="headingOne">
-                    <a data-toggle="collapse" data-parent="#accordionEx" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                        <h3 class="mb-0 text-center category">
-                            Solo Walks <i class="fa fa-angle-down rotate-icon"></i>
-                        </h3>
-                    </a>
-                </div>
-
-                <!-- Card body -->
-                <div id="collapseOne" class="collapse" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordionEx">
-                    <div class="card-body">
-                      <p>If you want to know that your loved one is getting undivided attention, or if your pup can be nervous or unpredictable around other dogs, then this is the service for you!</p>
-
-                      <div class="row"> <!-- .row ul -->
-                        <div class="col-sm">
-                          <ul>
-                            <li>15 Minute Solo Walk - $13</li>
-                          </ul>
-                        </div>
-                        <div class="col-sm">
-                          <ul>
-                            <li>30 Minute Solo Walk - $20</li>
-                          </ul>
-                        </div>
-                        <div class="col-sm">
-                          <ul>
-                            <li>45 Minute Solo Walk - $25</li>
-                          </ul>
-                        </div>
-                      </div> <!-- /.row ul -->
-
-                      <p>Have more than one dog in the family?</p>
-                      <ul>
-                        <li>Each additional dog - $10</li>
-                      </ul>
-
-                      <h4 class="mt-4">Package Discount</h4>
-                      <p>Have your pet walked 5 days a week for a month, or schedule walks ahead of time for when you need them most!</p>
-                      <div class="row">
-                        <div class="col-md">
-                          <ul>
-                            <li>15 Minute Solo Walk x 20 - $10 / Walk</li>
-                          </ul>
-                        </div>
-                        <div class="col-md">
-                          <ul>
-                            <li>30 Minute Solo Walk x 20 - $16 / Walk</li>
-                          </ul>
-                        </div>
-                        <div class="col-md">
-                        <ul>
-                          <li>45 Minute Solo Walk x 20 - $20 / Walk</li>
-                        </ul>
-                        </div>
-                      </div>
-                      <p>Have more than one dog in the family?</p>
-                      <ul>
-                        <li>Each additional dog - $8</li>
-                      </ul> <!-- /soloWalks -->
-                    </div>
-                </div> <!-- /Card body -->
-            </div>  <!-- Accordion card -->
-
-
-            <!-- Accordion card 2: Group Walks -->
-            <div class="card">
-
-              <!-- Card header -->
-              <div class="card-header" role="tab" id="headingTwo">
-                  <a data-toggle="collapse" data-parent="#accordionEx" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
-                      <h3 class="mb-0 text-center">
-                          Group Walks <i class="fa fa-angle-down rotate-icon"></i>
-                      </h3>
-                  </a>
+              <div class="text-center">
+                <i class="fas fa-paw fa-7x pb-2"></i>
               </div>
 
-              <!-- Card body -->
-              <div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo" data-parent="#accordionEx">
-                  <div class="card-body">
-                    <div class="row"> <!-- Desc: group walks -->
-                      <div class="col" id="desc2">
-                        <p>If your dog <em>loves</em> to socialize and spends it's days dreaming about making new friends,  then you may want to consider group walks to socialize your pup and make his dreams come true!</p>
+              <ul>
+                <li>15 Minutes - $13</li>
+                <li>30 Minutes - $20</li>
+                <li>45 Minutes - $25</li>
+              </ul>
 
-                        <ul>
-                          <li>45 Minute Group Walk - $20</li>
-                        </ul>
-                        <p>Have more than one dog in the family?</p>
-                        <ul>
-                          <li>Each additional dog - $10</li>
-                        </ul>
+              <p>Have more than one dog in the family?</p>
 
-                        <h4>Package Discount</h4>
-                        <p>Make sure your social pet is getting all of the socialization it needs! Have your pet walked 5 days a week for a month!</p>
-
-                        <ul>
-                          <li>45 Minute Group Walk x 20 - $16 / Walk</li>
-                        </ul>
-
-                        <p>Have more than one dog in the family?</p>
-
-                        <ul>
-                          <li>Each additional dog - $8</li>
-                        </ul>
-
-                      </div>
-                    </div> <!-- /Desc: group walks -->
-                  </div> <!-- /Card body -->
-              </div>  <!-- Accordion card -->
+              <ul>
+                <li>Each additional dog - $10</li>
+              </ul>
             </div>
+            <div class="col-md-6 bg-info my-2 p-4 rounded-right">
+              <h3 class="text-center">Package Discount</h3>
+
+              <p>Have your pet walked 5 days a week for a month, or schedule walks ahead of time for when you need them most!</p>
+
+              <ul>
+                <li>15 Minute Solo Walk x 20 - $10 / Walk</li>
+                <li>30 Minute Solo Walk x 20 - $16 / Walk</li>
+                <li>45 Minute Solo Walk x 20 - $20 / Walk</li>
+              </ul>
+
+              <p>Have more than one dog in the family?</p>
+
+              <ul>
+                <li>Each additional dog - $8</li>
+              </ul>
+            </div>
+          </div> <!-- /Nested: Solo Walks -->
+
+          <p class="m-4">If your dog loves to socialize and spends all day dreaming about making new friends, then you may want to consider group walks to socialize your pup and make his dreams come true!</p>
+
+          <div class="row"> <!-- Nested: Group Walks -->
+            <div class="col-md-6 bg-info my-2 rounded-left">
+              <h3 class="em-text text-center p-2">Group Walks</h3>
+
+              <div class="text-center">
+                <i class="fas fa-paw fa-7x pb-2"></i>
+              </div>
+
+              <ul>
+                <li>45 Minute Group Walk - $20</li>
+              </ul>
+
+              <p>Have more than one dog in the family?</p>
+
+              <ul>
+                <li>Each additional dog - $8</li>
+              </ul>
+            </div>
+            <div class="col-md-6 bg-info my-2 p-4 rounded-right">
+              <h3 class="text-center">Package Discount</h3>
+
+              <p>Make sure your social pet is getting all of the socialization it needs! Have your pet walked 5 days a week for a month!</p>
+
+              <ul>
+                <li>45 Minute Group Walk x 20 - $16 / Walk</li>
+              </ul>
+
+              <p>Have more than one dog in the family?</p>
+
+              <ul>
+                <li>Each additional dog - $8</li>
+              </ul>
+            </div>
+          </div> <!-- /Nested: Group Walks -->
+
+          <div class="row"> <!-- CALL TO ACTION BOX: CONTACT US -->
+            <div class="col p-5 rounded" id="contactDiv">
+              <h2 class="text-center em-text">Contact us <a href="contact.php" class="blueLink">here</a> to inquire further about walking services!</h2>
+            </div>
+          </div> <!-- /CALL TO ACTION BOX: CONTACT US -->
+
+        </div> <!-- /MAIN CONTENT DIV -->
 
 
-          </div> <!--/.Accordion wrapper-->
-
-        </div> <!-- /accordionDiv -->
-
-
-        <div class="col-md-1 col-lg-2"></div> <!-- dummy width column -->
+        <div class="col-md-1"></div> <!-- dummy width column -->
       </div>
 
 
@@ -161,7 +122,6 @@
       <div class="row mt-5"> <!-- HST -->
         <div class="col text-center">
           <h5>*All Prices are Subject to HST.</h5>
-          <p>Contact us <a href="contact.php" class="blueLink">here</a> to inquire further about walking services!</p>
         </div>
       </div> <!-- /HST -->
       <?php  ?>

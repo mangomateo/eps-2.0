@@ -43,11 +43,22 @@ a:hover {
 
 .service-text {
   position: absolute;
-  top: 50%;
+  top: 75%;
   left: 50%;
   transform: translate(-50%, -50%);
-  background-color: #000;
   color: #fff;
 }
 
+  /* TEXT SHADOW EFFECT FOR LINKS ON RATES LANDING PAGE */
+
+.service-link {
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+  text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+}
+
 /* ///////////////////////////////////////// */
+
+#contactDiv {
+  background-color: gold;
+}

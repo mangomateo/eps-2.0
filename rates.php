@@ -25,21 +25,27 @@
       <div class="row"> <!-- content DIV -->
         <div class="col-md-6 col-lg-4 my-3">
           <img src="img/dog009.jpg" class="img-fluid service-img">
-          <h3 class="em-text service-text text-center p-1">WALKING SERVICES</h3>
+          <h3 class="em-text service-text text-center p-1">
+            <a href="walking.php" class="service-link">WALKING SERVICES</a>
+          </h3>
         </div>
         <div class="col-md-6 col-lg-4 my-3">
           <img src="img/dog005.jpg" class="img-fluid service-img">
           <h3 class="em-text service-text text-center p-1">
-            <a href="sitting.php">IN-HOME PET SITTING</a>
+            <a href="sitting.php" class="service-link">IN-HOME PET SITTING</a>
           </h3>
         </div>
         <div class="col-md-6 col-lg-4 my-3">
           <img src="img/dog004.jpg" class="img-fluid service-img">
-          <h3 class="em-text service-text text-center p-1">DAYTIME VISITS</h3>
+          <h3 class="em-text service-text text-center p-1">
+            <a href="dayvisits.php" class="service-link">DAYTIME VISITS</a>
+          </h3>
         </div>
         <div class="col-md-6 col-lg-4 my-3">
           <img src="img/dog003.jpg" class="img-fluid service-img">
-          <h3 class="em-text service-text text-center p-1">GROOMING</h3>
+          <h3 class="em-text service-text text-center p-1">
+            <a href="grooming.php" class="service-link">GROOMING</a>
+          </h3>
         </div>
         <div class="col-md-6 col-lg-4 my-3">
           <img src="img/dog008.jpg" class="img-fluid service-img">

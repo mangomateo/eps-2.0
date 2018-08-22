@@ -101,17 +101,22 @@
 
             </div>
           </div>
+
+          <div class="row"> <!-- CALL TO ACTION BOX: CONTACT US -->
+            <div class="col m-2 p-5 rounded" id="contactDiv">
+              <h2 class="text-center em-text">Contact us <a href="contact.php" class="blueLink">here</a> to inquire further about pet sitting services!</h2>
+            </div>
+          </div> <!-- /CALL TO ACTION BOX: CONTACT US -->
+
         </div> <!-- CONTENT END -->
 
         <div class="col-md-1"></div> <!-- dummy width column -->
       </div> <!-- /.row -->
 
 
-
       <div class="row mt-5"> <!-- HST -->
         <div class="col text-center">
           <h5>*All Prices are Subject to HST.</h5>
-          <p>Contact us <a href="contact.php" class="blueLink">here</a> to inquire further about pet sitting services!</p>
         </div>
       </div> <!-- /HST -->
     </div> <!-- /mainContainer -->

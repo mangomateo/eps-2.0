@@ -31,6 +31,10 @@ a:hover {
   font-family: 'Open Sans', sans-serif;
 }
 
+.pull-up {
+  margin-top: -1em;
+}
+
 
 
 /* STYLING FOR SERVICES & RATES LANDING PAGE */

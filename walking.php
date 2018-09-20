@@ -29,6 +29,7 @@
           <p>If you want to know that your loved one is getting undivided attention, or if your pup can be nervous or unpredictable around other dogs, then this is the service for you!</p>
 
           <div class="row"> <!-- Nested: Solo Walks -->
+
             <div class="col-md-6 bg-info my-2 rounded-left">
 
               <h3 class="text-center em-text p-2">Solo Walks</h3>
@@ -68,6 +69,13 @@
             </div>
           </div> <!-- /Nested: Solo Walks -->
 
+          <!-- WALKING FOOTER -->
+          <div class="row">
+            <div class="col rounded bg-info pull-up">
+              <h4 class="text-center">Packages not for you? Pay by the walk or by the week!</h4>
+            </div>
+          </div> <!-- /WALKING FOOTER -->
+
           <p class="m-4">If your dog loves to socialize and spends all day dreaming about making new friends, then you may want to consider group walks to socialize your pup and make his dreams come true!</p>
 
           <div class="row"> <!-- Nested: Group Walks -->
@@ -105,8 +113,15 @@
             </div>
           </div> <!-- /Nested: Group Walks -->
 
+          <!-- WALKING FOOTER -->
+          <div class="row">
+            <div class="col rounded bg-info pull-up">
+              <h4 class="text-center">Packages not for you? Pay by the walk or by the week!</h4>
+            </div>
+          </div> <!-- /WALKING FOOTER -->
+
           <div class="row"> <!-- CALL TO ACTION BOX: CONTACT US -->
-            <div class="col p-5 rounded" id="contactDiv">
+            <div class="col p-5 mt-2 rounded" id="contactDiv">
               <h2 class="text-center em-text">Contact us <a href="contact.php" class="blueLink">here</a> to inquire further about walking services!</h2>
             </div>
           </div> <!-- /CALL TO ACTION BOX: CONTACT US -->

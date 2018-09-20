@@ -35,6 +35,10 @@ a:hover {
   margin-top: -1em;
 }
 
+.nav-link:hover {
+  text-decoration: underline;
+}
+
 
 
 /* STYLING FOR SERVICES & RATES LANDING PAGE */

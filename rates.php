@@ -49,7 +49,9 @@
         </div>
         <div class="col-md-6 col-lg-4 my-3">
           <img src="img/dog008.jpg" class="img-fluid service-img">
-          <h3 class="em-text service-text text-center p-1">OTHER SERVICES</h3>
+          <h3 class="em-text service-text text-center p-1">
+            <a href="other.php" class="service-link">OTHER SERVICES</a>
+          </h3>
         </div>
       </div> <!-- /content DIV -->
 

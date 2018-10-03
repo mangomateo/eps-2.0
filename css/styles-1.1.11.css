@@ -70,3 +70,7 @@ a:hover {
 #contactDiv {
   background-color: gold;
 }
+
+#badge {
+  max-width: 50%;
+}

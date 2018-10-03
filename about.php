@@ -28,17 +28,17 @@
             </div>
 
             <div class="col-md">
-              <p>Hi! My name is Sara and I am a former-professional dog groomer who decided that I wanted to take my love and passion for dogs to the park!</p>
+              <p>Sara is a professionally trained dog groomer who decided to take her love and passion for dogs to the park!</p>
 
-              <p>Being a dog groomer I have interacted and worked with thousands of dogs, therefore gaining extensive experience in handling dogs of all breeds, sizes, ages and temperaments. Through this work I have also been trained to monitor and assess dogs with basic ailments and indicators of stress, both moderate and severe.</p>
+              <p>Being a dog groomer she has interacted and worked with thousands of dogs, gaining extensive experience in handling dogs of all breeds, sizes, ages and temperaments. Through this work she has also been trained to monitor and assess dogs with basic ailments and indicators of stress, both moderate and severe.</p>
             </div>
           </div>
 
           <div class="row">
             <div class="col">
-              <p>I love interacting with your furry friends and always make the most sincere effort to learn their quirks, likes and dislikes to ensure that every visit is not just enjoyable, but something to be anticipated.</p>
+              <p>Sara always makes the most sincere effort to learn every pet's quirks, likes and dislikes to ensure that every visit is not just enjoyable, but something to be anticipated. Her favourite pastime includes creating improvised songs about her pets and performing them…for her pets.</p>
 
-              <p class="mb-5">Please feel free to contact me with any questions or concerns and I will be happy to try and satisfy any or all of them!</p>
+              <p class="mb-5">Please feel free to contact us with any questions or concerns. We’d love to hear from you!</p>
             </div>
           </div>
 

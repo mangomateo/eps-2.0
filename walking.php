@@ -19,6 +19,7 @@
       <div class="row my-5"> <!-- Header: Services & Rates -->
         <div class="col">
           <h1 class="text-center em-text">Walking Services</h1>
+          <p class="text-center font-italic">All walking services are on leash, neighbourhood walks!</p>
         </div>
       </div> <!-- /Header: Services & Rates -->
 

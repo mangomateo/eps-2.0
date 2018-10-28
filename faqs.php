@@ -243,6 +243,30 @@
             </div> <!-- /Accordion card -->
 
 
+            <!-- Accordion card 11 -->
+            <div class="card">
+
+                <!-- Card header -->
+                <div class="card-header" role="tab" id="headingEleven">
+                    <a data-toggle="collapse" data-parent="#accordionEx" href="#collapseEleven" aria-expanded="true" aria-controls="collapseEleven">
+                        <h5 class="mb-0 text-center em-text">
+                            Are you pet first aid certified? <i class="fa fa-angle-down rotate-icon"></i>
+                        </h5>
+                    </a>
+                </div>
+
+                <!-- Card body -->
+                <div id="collapseEleven" class="collapse" role="tabpanel" aria-labelledby="headingEleven" data-parent="#accordionEx">
+                    <div class="card-body">
+                      <p>Yes! Essential Pet Services takes our commitment to you and your pets seriously. Sara is certified through Walks n’ Wags Pet First Aid Certification program, Canada’s top pet first aid course.</p>
+                      <div class="text-center">
+                        <img src="img/walkswags.jpg" alt="Insured and bonded through PROfur Insurance!" id="badge">
+                      </div>
+                    </div>
+                </div>
+            </div> <!-- /Accordion card -->
+
+
           </div><!--/Accordion wrapper-->
         </div> <!-- /.col -->
 
